@@ -1,8 +1,10 @@
 title: "The Technical Communication of Video Games"
 description: "ENC 6931 · Topics in Technical Communication · Fall 2026 · University of Central Florida"
-theme: minima
 baseurl: "/TCandGames"
 url: "https://ekjphd.github.io"
 
-minima:
-  skin: classic
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
