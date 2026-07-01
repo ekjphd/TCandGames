@@ -1,11 +1,11 @@
-Most weeks, you will complete one weekly exercise and post it to that week's discussion, then respond to peers. Instead of assigning the same task to everyone, you pick from the menu below. The point is to keep your eye sharp and your examples fresh, and to build a shared class library of technical communication operating in the wild.
+Throughout this term, you will keep a notebook (or dev.log, an abbreviation for a "game developer's log"), on a Google doc, a Word doc, or even on paper (uploading legible images for me to grade). You will add to this each week when there is not a major assignment due. The point is to keep your eye sharp and your examples fresh, and to build a library of technical communication operating in the wild.
 
-**The rules of the game:**
+**Game Rules:**
 
-- Each week, your exercise should connect to that week's principle(s). Most options work with any principle; pick one that fits.
-- You may use any single option a maximum of **two times** across the term. Spread yourself around.
-- Wherever you can, choose sites outside the AAA, "best games" mainstream: indie, mobile, older, non-Western, or non-game interfaces. The field over-studies the blockbusters; help us fix that.
-- Many of these favor non-examples and failures. A broken interface often teaches a principle more clearly than a polished one.
+- Each week, your exercise should connect to one of the principles or key topics from that week's readings. Most options work with any principle; pick one that fits.
+- You may use any single option a maximum of **two times** across the term. Play around and experiment!
+- Wherever you can, choose sites outside the AAA, "best games" mainstream: indie, mobile, older, non-Western, or non-game interfaces. The website [itch.io](https://itch.io/) houses many free indie games that are far different from the commercial blockbusters that typically come to mind when thinking about "video games."
+- Many of these favor non-examples of principles. A broken interface often teaches a principle more clearly than a polished one.
 - Keep posts focused: a few hundred words plus media, unless an option says otherwise.
 
 ---

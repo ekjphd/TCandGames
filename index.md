@@ -1,10 +1,16 @@
-*This schedule is subject to revision. Please see official syllabus in Canvas. Major deadlines are 11:59 PM Orlando, FL time on Sundays; Peer Review deadlines are 11:59pm Orlando, FL time on Thursdays; an 8-hour grace period until 8:00am the following day apply to all assignments in case of technical issues*
-**Quick links:** [Major Assignment Descriptions](assignments.md) · [Weekly Exercises Menu](weekly-exercises.md)
+# Schedule
+
+## The Technical Communication of Video Games
+
+*This schedule is subject to revision. The official syllabus lives in Canvas. Deadlines are 11:59 PM Orlando, Florida (Eastern) time, with an 8-hour grace period until 8:00 AM the next morning for technical difficulties. Course weeks run Monday through Sunday; drafts are due Thursday and peer reviews and final versions are due Sunday.*
+
+**Quick links:** [Major Assignments](assignments.md) · [Weekly Exercises menu](exercises.md)
 
 ---
+
 ## Weekly Schedule
 
-### Week 1: Welcome and Framing (August 24 - August 30)
+### Week 1: Welcome and Framing (Monday, August 24 - Sunday, August 30)
 
 **Read**
 
@@ -17,7 +23,7 @@
 
 ---
 
-### Week 2: What Counts as Technical Communication? (August 31 - September 6)
+### Week 2: What Counts as Technical Communication? (Monday, August 31 - Sunday, September 6)
 
 **Read**
 
@@ -26,11 +32,11 @@
 
 **Due**
 
-- [Weekly Exercise 1](weekly-exercises.md) — Sunday, September 6
+- [Weekly Exercise 1](exercises.md) — Sunday, September 6
 
 ---
 
-### Week 3: Procedural Rhetoric and Interaction (September 7 - September 13)
+### Week 3: Procedural Rhetoric and Interaction (Monday, September 7 - Sunday, September 13)
 
 **Read**
 
@@ -40,11 +46,11 @@
 
 **Due**
 
-- [Weekly Exercise 2](weekly-exercises.md) — Sunday, September 13
+- [Weekly Exercise 2](exercises.md) — Sunday, September 13
 
 ---
 
-### Week 4: Genre and Expectations (September 14 - September 20)
+### Week 4: Genre and Expectations (Monday, September 14 - Sunday, September 20)
 
 **Read**
 
@@ -54,10 +60,11 @@
 **Due**
 
 - [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Draft — Thursday, September 17
+- [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Peer Review — Sunday, September 20
 
 ---
 
-### Week 5: Text and Visuals (September 21 - September 27)
+### Week 5: Text and Visuals (Monday, September 21 - Sunday, September 27)
 
 **Read**
 
@@ -67,11 +74,11 @@
 
 **Due**
 
-- [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Peer Review — Sunday, September 27
+- [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Final — Sunday, September 27
 
 ---
 
-### Week 6: Visual Rhetoric and Signaling (September 28 - October 4)
+### Week 6: Visual Rhetoric and Signaling (Monday, September 28 - Sunday, October 4)
 
 **Read**
 
@@ -80,11 +87,11 @@
 
 **Due**
 
-- [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Final — Sunday, October 4
+- [Weekly Exercise 3](exercises.md) — Sunday, October 4
 
 ---
 
-### Week 7: Sound and Aural Communication (October 5 - October 11)
+### Week 7: Sound and Aural Communication (Monday, October 5 - Sunday, October 11)
 
 **Read**
 
@@ -94,11 +101,11 @@
 
 **Due**
 
-- [Weekly Exercise 3](weekly-exercises.md) — Sunday, October 11
+- [Weekly Exercise 4](exercises.md) — Sunday, October 11
 
 ---
 
-### Week 8: Research Methods: Heuristics and Usability (October 12 - October 18)
+### Week 8: Research Methods: Heuristics and Usability (Monday, October 12 - Sunday, October 18)
 
 **Read**
 
@@ -109,10 +116,11 @@
 **Due**
 
 - [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Draft — Thursday, October 15
+- [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Peer Review — Sunday, October 18
 
 ---
 
-### Week 9: Multimodal Combination and Redundancy (October 19 - October 25)
+### Week 9: Multimodal Combination and Redundancy (Monday, October 19 - Sunday, October 25)
 
 **Read**
 
@@ -122,11 +130,11 @@
 
 **Due**
 
-- [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Peer Review — Sunday, October 25
+- [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Final — Sunday, October 25
 
 ---
 
-### Week 10: Teaching Users What to Ignore (October 26 - November 1)
+### Week 10: Teaching Users What to Ignore (Monday, October 26 - Sunday, November 1)
 
 **Read**
 
@@ -136,11 +144,11 @@
 
 **Due**
 
-- [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Final — Sunday, November 1
+- [Weekly Exercise 5](exercises.md) — Sunday, November 1
 
 ---
 
-### Week 11: Embodied Interaction (November 2 - November 8)
+### Week 11: Embodied Interaction (Monday, November 2 - Sunday, November 8)
 
 **Read**
 
@@ -150,11 +158,11 @@
 
 **Due**
 
-- [Weekly Exercise 4](weekly-exercises.md) — Sunday, November 8
+- [Weekly Exercise 6](exercises.md) — Sunday, November 8
 
 ---
 
-### Week 12: Embodiment, XR, and Emerging Interfaces (November 9 - November 15)
+### Week 12: Embodiment, XR, and Emerging Interfaces (Monday, November 9 - Sunday, November 15)
 
 **Read**
 
@@ -164,10 +172,11 @@
 **Due**
 
 - [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Draft — Thursday, November 12
+- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Peer Review (optional) — Sunday, November 15
 
 ---
 
-### Week 13: AI-Mediated Communication and Accessibility (November 16 - November 22)
+### Week 13: AI-Mediated Communication and Accessibility (Monday, November 16 - Sunday, November 22)
 
 **Read**
 
@@ -176,23 +185,23 @@
 
 **Due**
 
-- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Peer Review (optional) — Sunday, November 22
+- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Final — Sunday, November 22
 
 ---
 
-### Week 14: Thanksgiving Week / Project Work (November 23 - November 29)
+### Week 14: Thanksgiving Week / Project Work (Monday, November 23 - Sunday, November 29)
 
 **Read**
 
-- No new reading. UCF Thanksgiving break November 25 through November 28, including Native American Heritage Day (November 27).
+- No new reading. UCF Thanksgiving break November 25 through November 28, including Native American Heritage Day (Thursday, November 27).
 
 **Due**
 
-- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Final — Sunday, November 29
+- No graded deliverable — Thanksgiving break.
 
 ---
 
-### Week 15: Futures and Reflection (November 30 - December 6)
+### Week 15: Futures and Reflection (Monday, November 30 - Sunday, December 6)
 
 **Read**
 
