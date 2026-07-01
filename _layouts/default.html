@@ -5,6 +5,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title }}</title>
   <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+  <!-- Apply saved theme before render to avoid a flash of the wrong theme -->
+  <script>
+    (function () {
+      try {
+        if (localStorage.getItem('theme') === 'standard') {
+          document.documentElement.classList.add('standard-view');
+        }
+      } catch (e) {}
+    })();
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -13,10 +23,12 @@
       <a href="{{ '/index.html' | relative_url }}">Schedule</a>
       <a href="{{ '/assignments.html' | relative_url }}">Assignments</a>
       <a href="{{ '/weekly-exercises.html' | relative_url }}">Weekly Exercises</a>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to the standard high-readability view">Standard View</button>
     </nav>
   </header>
   <main>
     {{ content }}
   </main>
+  <script src="{{ '/theme-toggle.js' | relative_url }}"></script>
 </body>
 </html>

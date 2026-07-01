@@ -297,6 +297,32 @@ tr:hover td {
   text-shadow: 0 0 8px var(--neon-magenta);
 }
 
+/* ---- Theme toggle button (arcade default) ---- */
+.theme-toggle {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.6rem;
+  color: var(--neon-cyan);
+  background: var(--bg-panel-2);
+  border: 2px solid var(--neon-cyan);
+  border-radius: 6px;
+  padding: 0.5rem 0.8rem;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.theme-toggle:hover {
+  color: var(--bg-deep);
+  background: var(--neon-cyan);
+  text-shadow: none;
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.6);
+}
+
+.theme-toggle:focus-visible {
+  outline: 3px solid var(--neon-yellow);
+  outline-offset: 2px;
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 720px) {
   .markdown-body, main, .container, article, #content {
@@ -308,4 +334,233 @@ tr:hover td {
   h2 { font-size: 0.9rem; }
   h3 { font-size: 0.8rem; }
   p, li { font-size: 1.15rem; }
+}
+
+/* ============================================================
+   STANDARD VIEW
+   A plain, accessible, high-readability theme. Activated by
+   adding the .standard-view class to <html>. These rules are
+   scoped under .standard-view and override the arcade defaults
+   above; the arcade theme remains the default when the class
+   is absent.
+   ============================================================ */
+.standard-view body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.65;
+  color: #1a1a1a;
+  background-color: #ffffff;
+  background-image: none;
+}
+
+/* Content container: calm, borderless, plain document */
+.standard-view .markdown-body,
+.standard-view main,
+.standard-view .container,
+.standard-view article,
+.standard-view #content {
+  max-width: 780px;
+  margin: 2rem auto;
+  padding: 1rem 2rem 2.5rem;
+  background: #ffffff;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
+
+/* Headings: normal weight, dark text, no pixel font or glow */
+.standard-view h1,
+.standard-view h2,
+.standard-view h3,
+.standard-view h4 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #111111;
+  text-shadow: none;
+  letter-spacing: normal;
+  line-height: 1.3;
+}
+
+.standard-view h1 {
+  font-size: 2rem;
+  border-bottom: 1px solid #dddddd;
+  padding-bottom: 0.4rem;
+}
+
+.standard-view h2 {
+  font-size: 1.5rem;
+  border-left: none;
+  padding-left: 0;
+  margin-top: 2rem;
+}
+
+.standard-view h3 {
+  font-size: 1.25rem;
+  text-shadow: none;
+}
+
+.standard-view h4 {
+  font-size: 1.05rem;
+  color: #333333;
+}
+
+/* Body text */
+.standard-view p,
+.standard-view li {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1.125rem;
+  color: #1a1a1a;
+}
+
+.standard-view strong {
+  color: #1a1a1a;
+  text-shadow: none;
+  font-weight: 700;
+}
+
+.standard-view em {
+  color: #1a1a1a;
+}
+
+/* Links: simple underlined */
+.standard-view a {
+  color: #0645ad;
+  text-decoration: underline;
+  border-bottom: none;
+  text-shadow: none;
+}
+
+.standard-view a:hover {
+  color: #0b0080;
+  text-shadow: none;
+  border-bottom: none;
+}
+
+.standard-view ul li::marker,
+.standard-view ol li::marker {
+  color: #1a1a1a;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+/* Horizontal rule: plain line */
+.standard-view hr {
+  height: 1px;
+  background: #dddddd;
+  box-shadow: none;
+}
+
+/* Blockquotes */
+.standard-view blockquote {
+  border-left: 4px solid #cccccc;
+  background: #f6f6f6;
+  color: #333333;
+  border-radius: 0;
+}
+
+/* Code */
+.standard-view code {
+  background: #f0f0f0;
+  color: #b30000;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+}
+
+.standard-view pre {
+  background: #f6f6f6;
+  border: 1px solid #dddddd;
+}
+
+.standard-view pre code {
+  color: #1a1a1a;
+}
+
+/* Tables */
+.standard-view table {
+  font-family: inherit;
+  font-size: 1rem;
+}
+
+.standard-view th {
+  background: #f0f0f0;
+  color: #111111;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 700;
+  border: 1px solid #cccccc;
+  text-shadow: none;
+}
+
+.standard-view td {
+  border: 1px solid #dddddd;
+  color: #1a1a1a;
+}
+
+.standard-view tr:nth-child(even) td {
+  background: #fafafa;
+}
+
+.standard-view tr:hover td {
+  background: #f0f4ff;
+}
+
+.standard-view ::selection {
+  background: #b3d4fc;
+  color: #1a1a1a;
+}
+
+/* Site header and nav: present but plain */
+.standard-view .site-header {
+  max-width: 780px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.standard-view .site-title {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #111111;
+  text-shadow: none;
+}
+
+.standard-view .site-title:hover {
+  color: #0645ad;
+  text-shadow: none;
+}
+
+.standard-view .site-nav a {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 1rem;
+  color: #0645ad;
+  text-decoration: underline;
+  border-bottom: none;
+  letter-spacing: normal;
+}
+
+.standard-view .site-nav a:hover {
+  color: #0b0080;
+  text-shadow: none;
+  border-bottom: none;
+}
+
+/* Toggle button: plain, accessible */
+.standard-view .theme-toggle {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 0.95rem;
+  letter-spacing: normal;
+  color: #ffffff;
+  background: #333333;
+  border: 1px solid #333333;
+  border-radius: 4px;
+}
+
+.standard-view .theme-toggle:hover {
+  background: #111111;
+  border-color: #111111;
+  color: #ffffff;
+  box-shadow: none;
+}
+
+.standard-view .theme-toggle:focus-visible {
+  outline: 3px solid #0645ad;
+  outline-offset: 2px;
 }
