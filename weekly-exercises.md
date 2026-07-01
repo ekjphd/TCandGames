@@ -1,7 +1,3 @@
-# Weekly Exercises: Choose Your Own Adventure
-
-## The Technical Communication of Video Games
-
 Most weeks, you will complete one weekly exercise and post it to that week's discussion, then respond to peers. Instead of assigning the same task to everyone, you pick from the menu below. The point is to keep your eye sharp and your examples fresh, and to build a shared class library of technical communication operating in the wild.
 
 **The rules of the game:**

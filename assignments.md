@@ -1,7 +1,3 @@
-# Major Assignments
-
-## The Technical Communication of Video Games
-
 This document explains the three major assignments in detail. Each is shared in a discussion forum and responded to by peers using the modified Critical Response Process described in the syllabus. The assignments build on one another: the first sharpens observation, the second applies a research method, and the third extends analysis into an original contribution.
 
 ---

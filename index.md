@@ -1,10 +1,6 @@
-# Schedule
-
-## The Technical Communication of Video Games
-
 *This schedule is subject to revision. The official syllabus lives in Canvas. All deadlines are 11:59 PM Orlando, FL (Eastern) time on Sundays, with an 8-hour grace period until 8:00 AM Monday for technical difficulties.*
 
-**Quick links:** [Major Assignments](assignments.md) · [Weekly Exercises menu](exercises.md)
+**Quick links:** [Major Assignments](assignments.md) · [Weekly Exercises menu](weekly-exercises.md)
 
 ---
 
@@ -39,7 +35,7 @@
 
 **Due**
 
-- [Weekly Exercise 1](exercises.md) — Sunday, September 6
+- [Weekly Exercise 1](weekly-exercises.md) — Sunday, September 6
 
 ---
 
@@ -52,7 +48,7 @@
 
 **Due**
 
-- [Weekly Exercise 2](exercises.md) — Sunday, September 13
+- [Weekly Exercise 2](weekly-exercises.md) — Sunday, September 13
 
 ---
 
@@ -65,7 +61,7 @@
 
 **Due**
 
-- [Weekly Exercise 3](exercises.md) — Sunday, September 20
+- [Weekly Exercise 3](weekly-exercises.md) — Sunday, September 20
 
 ---
 
@@ -105,7 +101,7 @@
 
 **Due**
 
-- [Weekly Exercise 4](exercises.md) — Sunday, October 11
+- [Weekly Exercise 4](weekly-exercises.md) — Sunday, October 11
 
 ---
 
@@ -119,7 +115,7 @@
 
 **Due**
 
-- [Weekly Exercise 5](exercises.md): Draft and justify a heuristic set for your Major Assignment 2 system — Sunday, October 18
+- [Weekly Exercise 5](weekly-exercises.md): Draft and justify a heuristic set for your Major Assignment 2 system — Sunday, October 18
 
 ---
 
@@ -134,7 +130,7 @@
 
 **Due**
 
-- [Weekly Exercise 6](exercises.md) — Sunday, October 25
+- [Weekly Exercise 6](weekly-exercises.md) — Sunday, October 25
 
 ---
 
@@ -172,7 +168,7 @@
 
 **Due**
 
-- [Weekly Exercise 7](exercises.md) — Sunday, November 15
+- [Weekly Exercise 7](weekly-exercises.md) — Sunday, November 15
 
 ---
 
@@ -184,7 +180,7 @@
 
 **Due**
 
-- [Weekly Exercise 8](exercises.md) — Sunday, November 22
+- [Weekly Exercise 8](weekly-exercises.md) — Sunday, November 22
 
 ---
 

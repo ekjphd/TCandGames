@@ -246,6 +246,57 @@ tr:hover td {
   background: var(--neon-magenta);
 }
 
+/* ---- Site header and navigation ---- */
+.site-header {
+  max-width: 880px;
+  margin: 2rem auto 0;
+  padding: 1.5rem 3rem 1rem;
+  border-bottom: 3px dashed var(--neon-cyan);
+}
+
+.site-title {
+  display: block;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 1rem;
+  color: var(--neon-magenta);
+  text-shadow:
+    0 0 8px var(--neon-magenta),
+    3px 3px 0 var(--bg-panel-2);
+  text-decoration: none;
+  border-bottom: none;
+  margin-bottom: 1.25rem;
+  line-height: 1.7;
+}
+
+.site-title:hover {
+  color: var(--neon-cyan);
+  text-shadow: 0 0 10px var(--neon-cyan);
+  border-bottom: none;
+}
+
+.site-nav {
+  display: flex;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.65rem;
+  color: var(--neon-green);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--neon-green);
+  padding-bottom: 3px;
+  letter-spacing: 0.5px;
+  transition: all 0.15s ease;
+}
+
+.site-nav a:hover {
+  color: var(--neon-magenta);
+  border-bottom: 1px solid var(--neon-magenta);
+  text-shadow: 0 0 8px var(--neon-magenta);
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 720px) {
   .markdown-body, main, .container, article, #content {
