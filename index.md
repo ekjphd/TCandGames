@@ -172,7 +172,6 @@
 **Due**
 
 - [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Draft — Thursday, November 12
-- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Peer Review (optional) — Sunday, November 15
 
 ---
 
@@ -185,7 +184,7 @@
 
 **Due**
 
-- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Final — Sunday, November 22
+- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Peer Review (optional) — Sunday, November 22
 
 ---
 
@@ -197,7 +196,7 @@
 
 **Due**
 
-- No graded deliverable — Thanksgiving break.
+- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Final — Sunday, November 29
 
 ---
 

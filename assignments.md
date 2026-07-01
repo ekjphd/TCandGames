@@ -10,15 +10,15 @@ Each of the three major assignments runs on a draft, peer review, revise cycle:
 
 This gives you a week to draft, time for peer response, and a week to revise before the final is due to me. Peer feedback is encouraged to follow the Critical Response Process, but the focus is a substantive, useful peer review.
 
-- **Major Assignment 1: Principle in the Wild** — draft Thursday, September 17; peer review Sunday, September 27; final Sunday, October 4
-- **Major Assignment 2: Heuristic Evaluation or Usability Study** — draft Thursday, October 15; peer review Sunday, October 25; final Sunday, November 1
+- **Major Assignment 1: Principle in the Wild** — draft Thursday, September 17; peer review Sunday, September 20; final Sunday, September 27
+- **Major Assignment 2: Heuristic Evaluation or Usability Study** — draft Thursday, October 15; peer review Sunday, October 18; final Sunday, October 25
 - **Major Assignment 3: Original Analysis Project** — draft Thursday, November 12; peer review (optional) Sunday, November 22; final Sunday, November 29
 
 ---
 
 ## Major Assignment 1: Principle in the Wild
 
-**Draft due: Thursday, September 17 · Peer review due: Sunday, September 27 · Final due: Sunday, October 4**
+**Draft due: Thursday, September 17 · Peer review due: Sunday, September 20 · Final due: Sunday, September 27**
 
 ### Assignment rationale
 
@@ -50,7 +50,7 @@ Whatever the form, your submission must name the principle, point to the specifi
 
 ## Major Assignment 2: Heuristic Evaluation or Usability Study
 
-**Draft due: Thursday, October 15 · Peer review due: Sunday, October 25 · Final due: Sunday, November 1**
+**Draft due: Thursday, October 15 · Peer review due: Sunday, October 18 · Final due: Sunday, October 25**
 
 ### Assignment rationale
 
@@ -116,6 +116,38 @@ Whatever the form, the project must make an argument (not just a description), e
 - You are encouraged to submit this work to the appropriate graduate showcase or for conference consideration. Build it as something you could develop further.
 - Use the manuscript chapters as models for the "demonstrates and advances" argumentative pattern.
 - If choosing a nonconventional form, let the form serve the argument, not the novelty. A video essay should do something a paper could not.
+
+---
+
+## Final Reflection Paper
+
+**Due: Sunday, December 6 (finals week)**
+
+### Assignment rationale
+
+It is important to be your own advocate in many technical writing and user-centered design positions (and, you know, in life). It can feel awkward to boast about your work and your accomplishments, but you are the best person to assess your performance. Learning to name what you did, why it mattered, and how your thinking changed is a professional skill, not just an academic exercise. Practitioners write self-assessments for annual reviews, promotion cases, and portfolios constantly, and doing it well means pointing to specific evidence rather than vague claims.
+
+This paper serves as your final exam: a performance review of your own semester. Rather than simply cataloging what you did, reflect on how you did it, how your approach evolved, and what you now understand about your own process as an analyst of technical communication.
+
+### Where to start
+
+Look back across your semester of work: your three major assignments, your weekly exercises, your peer reviews, and your discussion contributions. Reread a few of your own submissions and the feedback you gave and received. Then shift from what to how and why: notice where your ability to see technical communication principles operating in nontraditional sites sharpened, where an assignment changed the way you approach analysis, and where you got stuck and what you did about it. The strongest reflections examine your own thinking, not just your output.
+
+### What is due
+
+A reflective performance review (~500 to 1,000 words) that:
+- Assesses your work across the semester, including your major assignments, weekly exercises, peer reviews, and discussion participation, in the spirit of a professional self-evaluation.
+- Reflects on how your analytical process worked and how it changed: where your method improved, where you struggled and how you adjusted, and what you would do differently now.
+- Traces how your understanding of technical communication principles in nontraditional sites (games, interfaces, interactive media) developed across the term, referencing at least one course reading that shaped your thinking.
+- Describes your overall experience in the course and outlines your next steps: research directions, career goals, or how this work connects to where you are headed. Suggestions for future offerings of this course are welcome.
+
+### Tips and resources
+- Suggested headings: Coursework, Analysis Skills, Knowledge, Overall Experience & Course Recommendations, Next Steps. Feel free to not use these headings and write more organically to answer the prompt.
+- Focus on process, not just product. A performance review that only lists accomplishments is weaker than one that explains how you achieved them and how your approach matured.
+- Be specific and honest. Point to particular moments in your work where your thinking shifted, including places where a peer's feedback or a reading changed your mind.
+- Advocate for yourself!  This is not the place for false modesty, but point to ways you increased your skills and were proud of your work.
+- Name your growth edges too. Reflecting on where you still have room to develop shows real self-awareness.
+- Write in a clear, direct, professional voice, as you would a real self-review.
 
 ---
 
