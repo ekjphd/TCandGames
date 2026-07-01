@@ -1,4 +1,4 @@
-# Weekly Exercises: Choose Your Own
+# Weekly Exercises: Choose Your Own Adventure
 
 ## The Technical Communication of Video Games
 
