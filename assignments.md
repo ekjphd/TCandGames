@@ -1,10 +1,24 @@
-This document explains the three major assignments in detail. Each is shared in a discussion forum and responded to by peers using the modified Critical Response Process described in the syllabus. The assignments build on one another: the first sharpens observation, the second applies a research method, and the third extends analysis into an original contribution.
+---
+
+## How the Major Assignments Work
+
+Each of the three major assignments runs on a draft, peer review, revise cycle:
+
+- Draft due Thursday
+- Peer review of assigned peers due the following Sunday
+- Final version due the Sunday after that
+
+This gives you a week to draft, time for peer response, and a week to revise before the final is due to me. Peer feedback is encouraged to follow the Critical Response Process, but the focus is a substantive, useful peer review.
+
+- **Major Assignment 1: Principle in the Wild** — draft Thursday, September 17; peer review Sunday, September 27; final Sunday, October 4
+- **Major Assignment 2: Heuristic Evaluation or Usability Study** — draft Thursday, October 15; peer review Sunday, October 25; final Sunday, November 1
+- **Major Assignment 3: Original Analysis Project** — draft Thursday, November 12; peer review (optional) Sunday, November 22; final Sunday, November 29
 
 ---
 
 ## Major Assignment 1: Principle in the Wild
 
-**Due: Week 5 (Sunday, September 27)**
+**Draft due: Thursday, September 17 · Peer review due: Sunday, September 27 · Final due: Sunday, October 4**
 
 ### Assignment rationale
 
@@ -16,13 +30,13 @@ Choose one principle from the course so far (Chapters 1 through 3 cover Principl
 
 ### What is due
 
-A short multimodal analysis that demonstrates the principle in action, posted to the discussion forum. The deliverable may take one of these forms:
+You will post a draft for peer review, then revise and submit a final version. Both the draft and final are a short multimodal analysis that demonstrates the principle in action, posted to the discussion forum. The deliverable may take one of these forms:
 
 - A narrated screen capture (2 to 4 minutes) walking through the moment where the principle operates.
 - An annotated image set (4 to 6 images) with captions identifying the principle at each point.
 - An illustrated written analysis (roughly 600 to 900 words) with embedded screenshots.
 
-Whatever the form, your submission must name the principle, point to the specific feature or moment, and explain how the principle operates there. Include two or three specific questions you want peer feedback on, and indicate which areas you are open to receiving opinions on (per the Critical Response Process).
+Whatever the form, your submission must name the principle, point to the specific feature or moment, and explain how the principle operates there. With your draft, include two or three specific questions you want peer feedback on, and indicate which areas you are open to receiving opinions on (per the Critical Response Process).
 
 ### Tips and resources
 
@@ -36,7 +50,7 @@ Whatever the form, your submission must name the principle, point to the specifi
 
 ## Major Assignment 2: Heuristic Evaluation or Usability Study
 
-**Due: Week 10 (Sunday, November 1)**
+**Draft due: Thursday, October 15 · Peer review due: Sunday, October 25 · Final due: Sunday, November 1**
 
 ### Assignment rationale
 
@@ -53,14 +67,14 @@ Then choose your system. Strong candidates are interfaces rich enough to surface
 
 ### What is due
 
-A structured findings report, posted to the discussion forum. The report should include:
+You will post a draft for peer review, then revise and submit a final version. Both are a structured findings report, posted to the discussion forum. The report should include:
 
 - A brief description of the system and why you chose it.
 - Your method, and (for heuristic evaluation) your adapted heuristic set with justification, or (for usability study) your participant profile, tasks, and procedure.
 - Your findings, organized clearly (by principle, by severity, or by task), with specific evidence for each.
 - Concrete, prioritized recommendations tied to your findings.
 
-Include two or three specific questions for peer feedback and indicate which areas you are open to opinions on.
+With your draft, include two or three specific questions for peer feedback and indicate which areas you are open to opinions on.
 
 ### Tips and resources
 
@@ -68,14 +82,14 @@ Include two or three specific questions for peer feedback and indicate which are
 - Tie every claim to evidence. "The onboarding violates Principle 11 (chunk information)" needs a specific example showing where and how.
 - For usability studies, keep tasks realistic and write them in plain language. Pilot them on a friend first.
 - For think-aloud, your job is to listen and observe, not to coach. Let participants struggle; the struggle is the data.
-- Required reading supports this directly: Nielsen on heuristic evaluation, Hayhoe & Brewer Ch. 5 (qualitative method), Ch. 7 (usability studies), and Ch. 12 (a worked usability report exemplar).
+- Required reading supports this directly: Nielsen on heuristic evaluation, Hayhoe & Brewer Chapter 5 (qualitative method), Chapter 7 (usability studies), and Chapter 12 (a worked usability report exemplar).
 - The 22 principles in Appendix B are your domain-specific heuristic set. Use them.
 
 ---
 
 ## Major Assignment 3: Original Analysis Project
 
-**Due: Week 15 (Sunday, December 6)**
+**Draft due: Thursday, November 12 · Peer review (optional) due: Sunday, November 22 · Final due: Sunday, November 29**
 
 ### Assignment rationale
 
@@ -87,12 +101,12 @@ Choose a nontraditional site and one or more principles you want to argue about.
 
 ### What is due
 
-An original analysis project, posted to the discussion forum, in one of these forms:
+You will post a draft, take part in an optional peer review round (offered the week before Thanksgiving, since many students travel), then submit a final version. The project, posted to the discussion forum, takes one of these forms:
 
 - A seminar-style analysis paper (roughly 2,500 to 3,500 words) with APA citations.
 - A nonconventional form with instructor approval: a video essay, an interactive Twine analysis, a designed annotated playthrough, or a podcast-style audio analysis, accompanied by a short written rationale (roughly 500 words) explaining your argument and citing your sources.
 
-Whatever the form, the project must make an argument (not just a description), engage at least three course readings, and use evidence from the site to support its claims. Include your Critical Response questions and your openness indicators.
+Whatever the form, the project must make an argument (not just a description), engage at least three course readings, and use evidence from the site to support its claims. If you take part in the optional peer review, include your Critical Response questions and your openness indicators with your draft.
 
 ### Tips and resources
 
@@ -105,4 +119,4 @@ Whatever the form, the project must make an argument (not just a description), e
 
 ---
 
-*Assignment details are subject to revision. Confirm current versions in Webcourses.*
+*Assignment details are subject to revision. Confirm current versions in Canvas.*

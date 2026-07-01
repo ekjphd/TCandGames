@@ -1,17 +1,7 @@
-*This schedule is subject to revision. The official syllabus lives in Canvas. All deadlines are 11:59 PM Orlando, FL (Eastern) time on Sundays, with an 8-hour grace period until 8:00 AM Monday for technical difficulties.*
-
-**Quick links:** [Major Assignments](assignments.md) · [Weekly Exercises menu](weekly-exercises.md)
-
----
-
-## Major Assignments at a Glance
-
-- [Major Assignment 1: Principle in the Wild](assignments.md#major-assignment-1-principle-in-the-wild) — due Week 5 (Sunday, September 27)
-- [Major Assignment 2: Heuristic Evaluation or Usability Study](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study) — due Week 10 (Sunday, November 1)
-- [Major Assignment 3: Original Analysis Project](assignments.md#major-assignment-3-original-analysis-project) — due Week 15 (Sunday, December 6)
+*This schedule is subject to revision. Please see official syllabus in Canvas. Major deadlines are 11:59 PM Orlando, FL time on Sundays; Peer Review deadlines are 11:59pm Orlando, FL time on Thursdays; an 8-hour grace period until 8:00am the following day apply to all assignments in case of technical issues*
+**Quick links:** [Major Assignment Descriptions](assignments.md) · [Weekly Exercises Menu](weekly-exercises.md)
 
 ---
-
 ## Weekly Schedule
 
 ### Week 1: Welcome and Framing (August 24 - August 30)
@@ -19,6 +9,7 @@
 **Read**
 
 - Johnson, E. K. (forthcoming). Introduction. In *Game update: Video games as technical communication innovators.* SUNY Press.
+- Gee, J. P. (2003). *What video games have to teach us about learning and literacy* (learning principles chapter). Macmillan.
 
 **Due**
 
@@ -30,7 +21,7 @@
 
 **Read**
 
-- Johnson, E. K. (forthcoming). First contact: Onboarding, agency, adaptability. In *Game update: Video games as technical communication innovators.* SUNY Press.
+- Johnson, E. K. (forthcoming). First contact: Onboarding, agency, adaptability. In *Game update.* SUNY Press.
 - Slack, J. D., Miller, D. J., & Doak, J. (1993). The technical communicator as author: Meaning, power, authority. *Journal of Business and Technical Communication, 7*(1), 12–36. https://doi.org/10.1177/1050651993007001002
 
 **Due**
@@ -44,7 +35,8 @@
 **Read**
 
 - Bogost, I. (2007). *Persuasive games: The expressive power of videogames* (selected chapter). MIT Press.
-- deWinter, J. (2014). Just playing around: From procedural manuals to in-game training. In J. deWinter & R. M. Moeller (Eds.), *Computer games and technical communication: Critical methods and applications at the intersection* (pp. 69–85). Ashgate.
+- deWinter, J. (2014). Just playing around: From procedural manuals to in-game training. In J. deWinter & R. M. Moeller (Eds.), *Computer games and technical communication* (pp. 69–85). Ashgate.
+- Hayhoe, G. F., & Brewer, P. E. (2020). The research phases and getting started. In *A research primer for technical communication* (2nd ed., Chapter 2). Routledge. https://doi.org/10.4324/9781003080688
 
 **Due**
 
@@ -56,12 +48,12 @@
 
 **Read**
 
-- Johnson, E. K. (forthcoming). Genre expectations. In *Game update: Video games as technical communication innovators.* SUNY Press.
-- Spinuzzi, C. (2003). Compound mediation in software development: Using genre ecologies to study textual artifacts. In C. Bazerman & D. R. Russell (Eds.), *Writing selves/writing societies: Research from activity perspectives* (pp. 97–124). The WAC Clearinghouse. https://doi.org/10.37514/PER-B.2003.2317
+- Johnson, E. K. (forthcoming). Genre expectations. In *Game update.* SUNY Press.
+- Spinuzzi, C. (2003). Compound mediation in software development: Using genre ecologies to study textual artifacts. In C. Bazerman & D. R. Russell (Eds.), *Writing selves/writing societies* (pp. 97–124). The WAC Clearinghouse. https://doi.org/10.37514/PER-B.2003.2317
 
 **Due**
 
-- [Weekly Exercise 3](weekly-exercises.md) — Sunday, September 20
+- [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Draft — Thursday, September 17
 
 ---
 
@@ -69,25 +61,26 @@
 
 **Read**
 
-- Johnson, E. K. (forthcoming). Text and visuals. In *Game update: Video games as technical communication innovators.* SUNY Press.
+- Johnson, E. K. (forthcoming). Text and visuals. In *Game update.* SUNY Press.
 - Amare, N., & Manning, A. (2007). The language of visuals: Text + graphics = visual rhetoric tutorial. *IEEE Transactions on Professional Communication, 50*(1), 57–70. https://doi.org/10.1109/TPC.2006.890851
 - Rose, G. (2022). Compositional interpretation: Looking at the "good eye." In *Visual methodologies: An introduction to researching with visual materials* (5th ed.). SAGE.
 
 **Due**
 
-- [Major Assignment 1: Principle in the Wild](assignments.md#major-assignment-1-principle-in-the-wild) — Sunday, September 27
+- [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Peer Review — Sunday, September 27
 
 ---
 
-### Week 6: Critical Response Round 1 (September 28 - October 4)
+### Week 6: Visual Rhetoric and Signaling (September 28 - October 4)
 
 **Read**
 
-- Lerman, L., & Borstel, J. (2003). *Liz Lerman's Critical Response Process: A method for getting useful feedback on anything you make, from dance to dessert* (selected pages). Dance Exchange.
+- Amare, N., & Manning, A. (2013). *A unified theory of information design: Visuals, text and ethics* (selected chapter). Routledge.
+- Rose, G. (2022). Discourse analysis: Text, intertextuality, and context. In *Visual methodologies: An introduction to researching with visual materials* (5th ed.). SAGE.
 
 **Due**
 
-- Critical Response feedback on assigned peers' Major Assignment 1 — Sunday, October 4
+- [Major Assignment 1](assignments.md#major-assignment-1-principle-in-the-wild): Final — Sunday, October 4
 
 ---
 
@@ -95,13 +88,13 @@
 
 **Read**
 
-- Johnson, E. K. (forthcoming). Sounds. In *Game update: Video games as technical communication innovators.* SUNY Press.
+- Johnson, E. K. (forthcoming). Sounds. In *Game update.* SUNY Press.
 - Johnson, E. K. (2021). The aural-visual rhetoric in video game tutorials. *Technical Communication Quarterly, 31*(4), 374–394. https://doi.org/10.1080/10572252.2021.2021452
 - Collins, K. (2008). *Game sound: An introduction to the history, theory, and practice of video game music and sound design* (selected chapter). MIT Press.
 
 **Due**
 
-- [Weekly Exercise 4](weekly-exercises.md) — Sunday, October 11
+- [Weekly Exercise 3](weekly-exercises.md) — Sunday, October 11
 
 ---
 
@@ -110,12 +103,12 @@
 **Read**
 
 - Nielsen, J. (1994). Heuristic evaluation. In J. Nielsen & R. L. Mack (Eds.), *Usability inspection methods* (pp. 25–62). Wiley.
-- Hayhoe, G. F., & Brewer, P. E. (2020). Conducting a qualitative study. In *A research primer for technical communication: Methods, exemplars, and analyses* (2nd ed., Ch. 5). Routledge. https://doi.org/10.4324/9781003080688
-- Hayhoe, G. F., & Brewer, P. E. (2020). Conducting usability studies. In *A research primer for technical communication: Methods, exemplars, and analyses* (2nd ed., Ch. 7). Routledge. https://doi.org/10.4324/9781003080688
+- Hayhoe, G. F., & Brewer, P. E. (2020). Conducting a qualitative study. In *A research primer for technical communication* (2nd ed., Chapter 5). Routledge. https://doi.org/10.4324/9781003080688
+- Hayhoe, G. F., & Brewer, P. E. (2020). Conducting usability studies. In *A research primer for technical communication* (2nd ed., Chapter 7). Routledge. https://doi.org/10.4324/9781003080688
 
 **Due**
 
-- [Weekly Exercise 5](weekly-exercises.md): Draft and justify a heuristic set for your Major Assignment 2 system — Sunday, October 18
+- [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Draft — Thursday, October 15
 
 ---
 
@@ -123,38 +116,41 @@
 
 **Read**
 
-- Johnson, E. K. (forthcoming). Combo moves: Multimodal magic. In *Game update: Video games as technical communication innovators.* SUNY Press.
-- Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351–371.
+- Johnson, E. K. (forthcoming). Combo moves: Multimodal magic. In *Game update.* SUNY Press.
 - Gaver, W. W. (1986). Auditory icons: Using sound in computer interfaces. *Human-Computer Interaction, 2*(2), 167–177. https://doi.org/10.1207/s15327051hci0202_3
 - Blattner, M. M., Sumikawa, D. A., & Greenberg, R. M. (1989). Earcons and icons: Their structure and common design principles. *Human-Computer Interaction, 4*(1), 11–44. https://doi.org/10.1207/s15327051hci0401_1
 
 **Due**
 
-- [Weekly Exercise 6](weekly-exercises.md) — Sunday, October 25
+- [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Peer Review — Sunday, October 25
 
 ---
 
-### Week 10: Research Methods in Practice (October 26 - November 1)
+### Week 10: Teaching Users What to Ignore (October 26 - November 1)
 
 **Read**
 
-- Hayhoe, G. F., & Brewer, P. E. (2020). Analyzing a report on the results of a usability study. In *A research primer for technical communication: Methods, exemplars, and analyses* (2nd ed., Ch. 12). Routledge. https://doi.org/10.4324/9781003080688
+- Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351–371.
+- Goodwin, C. (1994). Professional vision. *American Anthropologist, 96*(3), 606–633. https://doi.org/10.1525/aa.1994.96.3.02a00100
+- Hayhoe, G. F., & Brewer, P. E. (2020). Analyzing a report on the results of a usability study. In *A research primer for technical communication* (2nd ed., Chapter 12). Routledge. https://doi.org/10.4324/9781003080688
 
 **Due**
 
-- [Major Assignment 2: Heuristic Evaluation or Usability Study](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study) — Sunday, November 1
+- [Major Assignment 2](assignments.md#major-assignment-2-heuristic-evaluation-or-usability-study): Final — Sunday, November 1
 
 ---
 
-### Week 11: Critical Response Round 2 (November 2 - November 8)
+### Week 11: Embodied Interaction (November 2 - November 8)
 
 **Read**
 
-- No new reading. Peer response week.
+- Johnson, E. K. (forthcoming). Combo moves: Multimodal magic (embodied interaction sections). In *Game update.* SUNY Press.
+- Gibson, E. J. (1969). *Principles of perceptual learning and development* (selected pages). Appleton-Century-Crofts.
+- Iwata, H. (2008). History of haptic interface. In M. Grunwald (Ed.), *Human haptic perception: Basics and applications* (pp. 355–361). Birkhäuser. https://doi.org/10.1007/978-3-7643-7612-3_29
 
 **Due**
 
-- Critical Response feedback on assigned peers' Major Assignment 2 — Sunday, November 8
+- [Weekly Exercise 4](weekly-exercises.md) — Sunday, November 8
 
 ---
 
@@ -162,13 +158,12 @@
 
 **Read**
 
-- Johnson, E. K. (forthcoming). Reality check: Technical communication in XR spaces. In *Game update: Video games as technical communication innovators.* SUNY Press.
+- Johnson, E. K. (forthcoming). Reality check: Technical communication in XR spaces. In *Game update.* SUNY Press.
 - Shivener, R., & Tham, J. (2025). Capturing the experiences of simulated writing for novice virtual reality users. *IEEE Transactions on Professional Communication, 68*(1), 118–134. https://doi.org/10.1109/TPC.2025.3529095
-- Goodwin, C. (1994). Professional vision. *American Anthropologist, 96*(3), 606–633. https://doi.org/10.1525/aa.1994.96.3.02a00100
 
 **Due**
 
-- [Weekly Exercise 7](weekly-exercises.md) — Sunday, November 15
+- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Draft — Thursday, November 12
 
 ---
 
@@ -176,11 +171,12 @@
 
 **Read**
 
+- van Dijk, J., van der Lugt, R., & Hummels, C. (2014). Beyond distributed representation: Embodied cognition design supporting socio-sensorimotor couplings. *Proceedings of TEI '14*, 181–188. https://doi.org/10.1145/2540930.2540934
 - Selected current scholarship on AI in technical communication and accessibility-driven design (linked in Canvas).
 
 **Due**
 
-- [Weekly Exercise 8](weekly-exercises.md) — Sunday, November 22
+- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Peer Review (optional) — Sunday, November 22
 
 ---
 
@@ -188,31 +184,24 @@
 
 **Read**
 
-- No new reading. UCF Thanksgiving break November 25–28.
+- No new reading. UCF Thanksgiving break November 25 through November 28, including Native American Heritage Day (November 27).
 
 **Due**
 
-- Optional: Post a draft of Major Assignment 3 for informal feedback — Sunday, November 29
+- [Major Assignment 3](assignments.md#major-assignment-3-original-analysis-project): Final — Sunday, November 29
 
 ---
 
-### Week 15: Original Analysis Project (November 30 - December 6)
+### Week 15: Futures and Reflection (November 30 - December 6)
 
 **Read**
 
-- Revisit prior readings as needed for your project.
+- Johnson, E. K. (forthcoming). Conclusion. In *Game update.* SUNY Press.
+- Hayhoe, G. F., & Brewer, P. E. (2020). Reporting research findings (selected pages). In *A research primer for technical communication* (2nd ed.). Routledge. https://doi.org/10.4324/9781003080688
 
 **Due**
 
-- [Major Assignment 3: Original Analysis Project](assignments.md#major-assignment-3-original-analysis-project) — Sunday, December 6
-
----
-
-### Finals Week (December 7 - December 10)
-
-**Due**
-
-- Final Critical Response feedback on Major Assignment 3 and course reflection — Thursday, December 10
+- Final Reflection Paper — Sunday, December 6
 
 ---
 

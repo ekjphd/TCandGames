@@ -298,7 +298,12 @@ tr:hover td {
 }
 
 /* ---- Theme toggle button (arcade default) ---- */
+/* Pinned to the top-left of the viewport so it is the first thing seen. */
 .theme-toggle {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  z-index: 1000;
   font-family: 'Press Start 2P', monospace;
   font-size: 0.6rem;
   color: var(--neon-cyan);
@@ -309,6 +314,7 @@ tr:hover td {
   letter-spacing: 0.5px;
   cursor: pointer;
   transition: all 0.15s ease;
+  box-shadow: 0 0 12px rgba(0, 240, 255, 0.5);
 }
 
 .theme-toggle:hover {
