@@ -22,7 +22,7 @@
 - **Read:** Johnson, E. K. (forthcoming). Introduction. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Johnson, E. K. (forthcoming). First contact: Onboarding, agency, adaptability. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Slack, J. D., Miller, D. J., & Doak, J. (1993). The technical communicator as author: Meaning, power, authority. *Journal of Business and Technical Communication, 7*(1), 12–36. https://doi.org/10.1177/1050651993007001002
-- **Read:** Fullerton, T., & Farber, M. (2025). *The well-read game: On playing thoughtfully.* MIT Press.
+- **Read:** Fullerton, T., & Farber, M. (2025). Introduction. In *The well-read game: On playing thoughtfully.* MIT Press.
 - **Complete:** Weekly Exercise 1 (Sunday, September 6)
 
 ---
@@ -41,7 +41,7 @@
 - **Read:** Johnson, E. K. (forthcoming). Genre expectations. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Spinuzzi, C. (2003). Compound mediation in software development: Using genre ecologies to study textual artifacts. In *Writing selves and writing societies* (pp. 97–124). The WAC Clearinghouse. https://doi.org/10.37514/PER-B.2003.2317
 - **Read:** Gee, J. P. (2003). *What video games have to teach us about learning and literacy* (learning principles chapter). Macmillan.
-- **Read:** Fullerton, T., & Farber, M. (2025). *The well-read game: On playing thoughtfully.* MIT Press.
+- **Read:** Fullerton, T., & Farber, M. (2025). Learning to play closely. In *The well-read game: On playing thoughtfully.* MIT Press.
 - **Complete:** Major Assignment 1 Draft (Thursday, September 17)
 - **Complete:** Major Assignment 1 Peer Review (Sunday, September 20)
 
