@@ -10,9 +10,9 @@ Each of the three major assignments runs on a draft, peer review, revise cycle:
 
 This gives you a week to draft, time for peer response, and a week to revise before the final is due to me. Peer feedback is encouraged to follow the Critical Response Process, but the focus is a substantive, useful peer review.
 
-- **Major Assignment 1: Principle in the Wild** — draft Thursday, September 17; peer review Sunday, September 20; final Sunday, September 27
-- **Major Assignment 2: Heuristic Evaluation or Usability Study** — draft Thursday, October 15; peer review Sunday, October 18; final Sunday, October 25
-- **Major Assignment 3: Original Analysis Project** — draft Thursday, November 12; peer review (optional) Sunday, November 22; final Sunday, November 29
+- **Major Assignment 1: Principle in the Wild**. Draft Thursday, September 17; peer review Sunday, September 20; final Sunday, September 27
+- **Major Assignment 2: Heuristic Evaluation or Usability Study**. Draft Thursday, October 15; peer review Sunday, October 18; final Sunday, October 25
+- **Major Assignment 3: Original Analysis Project**. Draft Thursday, November 12; peer review (optional) Sunday, November 15; final Sunday, November 22
 
 ---
 
@@ -89,7 +89,7 @@ With your draft, include two or three specific questions for peer feedback and i
 
 ## Major Assignment 3: Original Analysis Project
 
-**Draft due: Thursday, November 12 · Peer review (optional) due: Sunday, November 22 · Final due: Sunday, November 29**
+**Draft due: Thursday, November 12 · Peer review (optional) due: Sunday, November 15 · Final due: Sunday, November 22**
 
 ### Assignment rationale
 
@@ -101,7 +101,7 @@ Choose a nontraditional site and one or more principles you want to argue about.
 
 ### What is due
 
-You will post a draft, take part in an optional peer review round (offered the week before Thanksgiving, since many students travel), then submit a final version. The project, posted to the discussion forum, takes one of these forms:
+You will post a draft, take part in an optional peer review round, then submit a final version before the Thanksgiving break. The project, posted to the discussion forum, takes one of these forms:
 
 - A seminar-style analysis paper (roughly 2,500 to 3,500 words) with APA citations.
 - A nonconventional form with instructor approval: a video essay, an interactive Twine analysis, a designed annotated playthrough, or a podcast-style audio analysis, accompanied by a short written rationale (roughly 500 words) explaining your argument and citing your sources.
