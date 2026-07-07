@@ -104,6 +104,7 @@
 - **Read:** Johnson, E. K. (forthcoming). Reality check: Technical communication in XR spaces. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Shivener, R., & Tham, J. (2025). Capturing the experiences of simulated writing for novice virtual reality users. *IEEE Transactions on Professional Communication, 68*(1), 118 to 134. https://doi.org/10.1109/TPC.2025.3529095
 - **Read:** van Dijk, J., van der Lugt, R., & Hummels, C. (2014). Beyond distributed representation: Embodied cognition design supporting socio-sensorimotor couplings. *Proceedings of TEI '14*, 181 to 188. https://doi.org/10.1145/2540930.2540934
+- **Read:** Gibson, E. J. (1966). *Perceptual learning in educational situations.* https://eric.ed.gov/?id=ED011955
 - **Complete:** Weekly Exercise 6 (Sunday, November 8)
 
 ---
