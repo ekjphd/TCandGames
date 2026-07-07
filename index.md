@@ -19,7 +19,6 @@
 
 ### Week 2 (August 31 to September 6): What Counts as Technical Communication?
 
-- **Read:** Johnson, E. K. (forthcoming). Introduction. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Johnson, E. K. (forthcoming). First contact: Onboarding, agency, adaptability. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Slack, J. D., Miller, D. J., & Doak, J. (1993). The technical communicator as author: Meaning, power, authority. *Journal of Business and Technical Communication, 7*(1), 12 to 36. https://doi.org/10.1177/1050651993007001002
 - **Read:** Fullerton, T., & Farber, M. (2025). "Introduction." *The well-read game: On playing thoughtfully.* MIT Press.
