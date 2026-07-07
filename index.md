@@ -126,7 +126,7 @@
 
 ### Week 14 (November 23 to November 29): Break Week
 
-- UCF is closed November 25 to 28; nothing due this week.
+- UCF is closed the full week, November 23 to 27; nothing due this week.
 
 ---
 
