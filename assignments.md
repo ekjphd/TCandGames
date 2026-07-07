@@ -30,7 +30,7 @@ Choose one principle from the course so far (Chapters 1 through 3 cover Principl
 
 ### What is due
 
-You will post a draft for peer review, then revise and submit a final version. Both the draft and final are a short multimodal analysis that demonstrates the principle in action, posted to the discussion forum. The deliverable may take one of these forms:
+You will post a draft to the discussion board for peer review, then revise and submit a final version through the Canvas assignment. Both the draft and final are a short multimodal analysis that demonstrates the principle in action. The deliverable may take one of these forms:
 
 - A narrated screen capture (2 to 4 minutes) walking through the moment where the principle operates.
 - An annotated image set (4 to 6 images) with captions identifying the principle at each point.
@@ -67,7 +67,7 @@ Then choose your system. Strong candidates are interfaces rich enough to surface
 
 ### What is due
 
-You will post a draft for peer review, then revise and submit a final version. Both are a structured findings report, posted to the discussion forum. The report should include:
+You will post a draft to the discussion board for peer review, then revise and submit a final version through the Canvas assignment. Both are a structured findings report. The report should include:
 
 - A brief description of the system and why you chose it.
 - Your method, and (for heuristic evaluation) your adapted heuristic set with justification, or (for usability study) your participant profile, tasks, and procedure.
@@ -101,7 +101,7 @@ Choose a nontraditional site and one or more principles you want to argue about.
 
 ### What is due
 
-You will post a draft, take part in an optional peer review round, then submit a final version before the Thanksgiving break. The project, posted to the discussion forum, takes one of these forms:
+You will post a draft to the discussion board, take part in an optional peer review round, then submit a final version through the Canvas assignment before the Thanksgiving break. The project takes one of these forms:
 
 - A seminar-style analysis paper (roughly 2,500 to 3,500 words) with APA citations.
 - A nonconventional form with instructor approval: a video essay, an interactive Twine analysis, a designed annotated playthrough, or a podcast-style audio analysis, accompanied by a short written rationale (roughly 500 words) explaining your argument and citing your sources.

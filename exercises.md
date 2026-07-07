@@ -1,4 +1,4 @@
-Throughout this term, you will keep a notebook (or dev.log, an abbreviation for a "game developer's log"), on a Google doc, a Word doc, or even on paper (uploading legible images for me to grade). You will add to this each week when there is not a major assignment due. The point is to keep your eye sharp and your examples fresh, and to build a library of technical communication operating in the wild.
+Throughout this term, you will keep a notebook (or dev.log, an abbreviation for a "game developer's log"), on a Google doc, a Word doc, or even on paper (compiling legible photos into a PDF for me to grade). You will add to this each week when there is not a major assignment due. The point is to keep your eye sharp and your examples fresh, and to build a library of technical communication operating in the wild.
 
 **Game Rules:**
 
@@ -6,7 +6,7 @@ Throughout this term, you will keep a notebook (or dev.log, an abbreviation for 
 - You may use any single option a maximum of **two times** across the term. Play around and experiment!
 - Wherever you can, choose sites outside the AAA, "best games" mainstream: indie, mobile, older, non-Western, or non-game interfaces. The website [itch.io](https://itch.io/) houses many free indie games that are far different from the commercial blockbusters that typically come to mind when thinking about "video games."
 - Many of these favor non-examples of principles. A broken interface often teaches a principle more clearly than a polished one.
-- Keep posts focused: a few hundred words plus media, unless an option says otherwise.
+- Keep entries focused: a few hundred words plus media, unless an option says otherwise.
 
 ---
 
@@ -84,29 +84,29 @@ Find a site that uses physical input or movement (motion controls, VR, AR, hapti
 
 ---
 
-## How to post
+## How to turn it in
 
-For each exercise, your discussion post should:
+For each exercise, your dev.log entry should:
 
 - Name the option letter and the principle you are connecting to.
 - Identify the site clearly (with a link or footage reference where relevant).
 - Show your evidence (screenshots, clips, or detailed description), not just describe it.
 - Land one clear analytical point. What does this example teach us about the principle?
 
-Then respond to at least two peers' posts with substantive replies.
+Then turn it in: add the new entry to the top of your running log and submit the whole log through that week's Weekly Exercise assignment in Canvas as a Word document, a PDF, or a URL (a shared Google Doc, a blog, a portfolio page; make sure I can open it). Your dev.log goes only to me: no posting, no replies, no audience.
 
-## What counts as a substantive reply
+## What counts as substantive peer feedback
 
-A substantive reply extends the conversation rather than closing it. "Great example, I agree!" is not substantive. A reply that makes your peer think, see their example differently, or want to respond back is. Aim for replies that do at least one of the following:
+Weekly entries do not get replies, but the major assignment draft and peer review boards run on them. There, a substantive reply extends the conversation rather than closing it. "Great example, I agree!" is not substantive. A reply that makes your peer think, see their example differently, or want to respond back is. Aim for replies that do at least one of the following:
 
 - **Build on the analysis.** Take your peer's observation somewhere new: connect it to another principle, another site, or a course reading they did not mention.
 - **Offer a counter-case.** Name a site that handles the same principle differently, or a moment where the principle your peer found actually breaks down.
 - **Deepen the evidence.** Point to a specific detail in their example they did not fully unpack, and explain what it adds.
 - **Bridge to the field.** Connect their game or interface observation to a real-world technical communication problem or product.
 
-## Using the Critical Response Process in replies
+## Using the Critical Response Process in peer reviews
 
-This course uses an adaptation of Liz Lerman's Critical Response Process (CRP) for peer feedback. The full four-step process governs feedback on the major assignments, but its habits should shape your weekly replies too. Two CRP moves in particular make weekly replies stronger and more respectful:
+This course uses an adaptation of Liz Lerman's Critical Response Process (CRP) for peer feedback on the major assignments. Two CRP moves in particular make peer feedback stronger and more respectful:
 
 **Lead with statements of meaning.** Before any suggestion, name something specific in your peer's post that was effective, surprising, or clarifying, and say what made it land. Be specific: "the muted-audio comparison made me realize the health bar was doing more work than I thought" is a statement of meaning; "nice job" is not.
 
