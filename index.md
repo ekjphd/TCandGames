@@ -31,7 +31,6 @@
 
 - **Read:** Bogost, I. (2007). *Persuasive games: The expressive power of videogames.* MIT Press.
 - **Read:** deWinter, J. (2014). Just playing around: From procedural manuals to in-game training. In *Computer games and technical communication* (pp. 69 to 85). Ashgate.
-- **Read:** Hayhoe, G. F., & Brewer, P. E. (2020). The research phases and getting started. In *A research primer for technical communication* (2nd ed., Chapter 2). Routledge. https://doi.org/10.4324/9781003080688
 - **Complete:** Weekly Exercise 2 (Sunday, September 13)
 
 ---
@@ -96,7 +95,6 @@
 
 - **Read:** Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351 to 371.
 - **Read:** Goodwin, C. (1994). Professional vision. *American Anthropologist, 96*(3), 606 to 633. https://doi.org/10.1525/aa.1994.96.3.02a00100
-- **Read:** Hayhoe, G. F., & Brewer, P. E. (2020). Analyzing a report on the results of a usability study. In *A research primer for technical communication* (2nd ed., Chapter 12). Routledge. https://doi.org/10.4324/9781003080688
 - **Complete:** Weekly Exercise 5 (Sunday, November 1)
 
 ---
@@ -122,7 +120,6 @@
 ### Week 13 (November 16 to November 22): Futures of the Field
 
 - **Read:** Johnson, E. K. (forthcoming). Conclusion. In *Game update: Video games as technical communication innovators.* SUNY Press.
-- **Read:** Hayhoe, G. F., & Brewer, P. E. (2020). Reporting research findings (selected pages). In *A research primer for technical communication* (2nd ed.). Routledge. https://doi.org/10.4324/9781003080688
 - **Complete:** Major Assignment 3 Final (Sunday, November 22)
 
 ---

@@ -82,7 +82,7 @@ With your draft, include two or three specific questions for peer feedback and i
 - Tie every claim to evidence. "The onboarding violates Principle 11 (chunk information)" needs a specific example showing where and how.
 - For usability studies, keep tasks realistic and write them in plain language. Pilot them on a friend first.
 - For think-aloud, your job is to listen and observe, not to coach. Let participants struggle; the struggle is the data.
-- Required reading supports this directly: Nielsen on heuristic evaluation, Hayhoe & Brewer Chapter 5 (qualitative method), Chapter 7 (usability studies), and Chapter 12 (a worked usability report exemplar).
+- Required reading supports this directly: Nielsen on heuristic evaluation, plus Hayhoe & Brewer Chapter 5 (qualitative method) and Chapter 7 (usability studies). Chapter 12 of the same book offers a worked usability report exemplar if you want a model.
 - The 22 principles in Appendix B are your domain-specific heuristic set. Use them.
 
 ---
