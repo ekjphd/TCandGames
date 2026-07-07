@@ -103,18 +103,17 @@
 
 ### Week 11 (November 2 to November 8): Embodied Interaction
 
-- **Read:** Johnson, E. K. (forthcoming). Combo moves: Multimodal magic (embodied interaction sections). In *Game update: Video games as technical communication innovators.* SUNY Press.
-- **Read:** Gibson, E. J. (1969). *Principles of perceptual learning and development* (selected pages). Appleton-Century-Crofts.
-- **Read:** Iwata, H. (2008). History of haptic interface. In *Human haptic perception: Basics and applications* (pp. 355 to 361). Birkhäuser. https://doi.org/10.1007/978-3-7643-7612-3_29
+- **Read:** Johnson, E. K. (forthcoming). Reality check: Technical communication in XR spaces. In *Game update: Video games as technical communication innovators.* SUNY Press.
+- **Read:** Shivener, R., & Tham, J. (2025). Capturing the experiences of simulated writing for novice virtual reality users. *IEEE Transactions on Professional Communication, 68*(1), 118 to 134. https://doi.org/10.1109/TPC.2025.3529095
+- **Read:** van Dijk, J., van der Lugt, R., & Hummels, C. (2014). Beyond distributed representation: Embodied cognition design supporting socio-sensorimotor couplings. *Proceedings of TEI '14*, 181 to 188. https://doi.org/10.1145/2540930.2540934
 - **Complete:** Weekly Exercise 6 (Sunday, November 8)
 
 ---
 
-### Week 12 (November 9 to November 15): Embodiment, XR, and Emerging Interfaces
+### Week 12 (November 9 to November 15): AI and Emerging Interfaces
 
-- **Read:** Johnson, E. K. (forthcoming). Reality check: Technical communication in XR spaces. In *Game update: Video games as technical communication innovators.* SUNY Press.
-- **Read:** Shivener, R., & Tham, J. (2025). Capturing the experiences of simulated writing for novice virtual reality users. *IEEE Transactions on Professional Communication, 68*(1), 118 to 134. https://doi.org/10.1109/TPC.2025.3529095
-- **Read:** van Dijk, J., van der Lugt, R., & Hummels, C. (2014). Beyond distributed representation: Embodied cognition design supporting socio-sensorimotor couplings. *Proceedings of TEI '14*, 181 to 188. https://doi.org/10.1145/2540930.2540934
+- **Read:** Weisz, J. D., He, J., Muller, M., Hoefer, G., Miles, R., & Geyer, W. (2024). Design principles for generative AI applications. *Proceedings of the CHI Conference on Human Factors in Computing Systems.* https://doi.org/10.1145/3613904.3642466
+- **Read:** Masters-Wheeler, C., & Bay, J. (2025). Methodologies for studying artificial intelligence in technical and professional communication. *Journal of Business and Technical Communication.* https://doi.org/10.1177/10506519241280647
 - **Complete:** Major Assignment 3 Draft (Thursday, November 12)
 - **Complete:** Major Assignment 3 Peer Review optional (Sunday, November 15)
 
