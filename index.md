@@ -12,7 +12,7 @@
 
 ### Week 1 (August 24 to August 30): Welcome, player!
 
-- **Read:** No assigned reading. Review the Welcome module.
+- **Read:** Sweeney, M. (2012, June 20). How to read for grad school. https://miriamsweeney.net/2012/06/20/readforgradschool/ (Sunday, August 30)
 - **Complete:** Academic Activity Verification (Friday, August 28)
 
 ---
