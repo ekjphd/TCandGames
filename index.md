@@ -4,20 +4,20 @@
 
 *This schedule is subject to revision. The official syllabus lives in Canvas. Deadlines are 11:59 PM Orlando, Florida (Eastern) time, with an 8-hour grace period until 8:00 AM the next morning for technical difficulties. Course weeks run Monday through Sunday; drafts are due Thursday and peer reviews and final versions are due Sunday.*
 
-**Quick links:** [Major Assignments](assignments.md) · [Weekly Exercises menu](exercises.md)
+**Quick links:** [Major assignments](assignments.md) · [Weekly exercise menu](exercises.md)
 
 ---
 
 ## Weekly Schedule
 
-### Week 1 (August 24 to August 30): Welcome, Player!
+### Week 1 (August 24 to August 30): Welcome, player!
 
 - **Read:** No assigned reading. Review the Welcome module.
 - **Complete:** Academic Activity Verification (Friday, August 28)
 
 ---
 
-### Week 2 (August 31 to September 6): What Counts as Technical Communication?
+### Week 2 (August 31 to September 6): What counts as technical communication?
 
 - **Read:** Johnson, E. K. (forthcoming). First contact: Onboarding, agency, adaptability. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Slack, J. D., Miller, D. J., & Doak, J. (1993). The technical communicator as author: Meaning, power, authority. *Journal of Business and Technical Communication, 7*(1), 12 to 36. https://doi.org/10.1177/1050651993007001002
@@ -26,7 +26,7 @@
 
 ---
 
-### Week 3 (September 7 to September 13): Procedural Rhetoric and Interaction
+### Week 3 (September 7 to September 13): Procedural rhetoric and interaction
 
 - **Read:** Bogost, I. (2007). *Persuasive games: The expressive power of videogames.* MIT Press.
 - **Read:** deWinter, J. (2014). Just playing around: From procedural manuals to in-game training. In *Computer games and technical communication* (pp. 69 to 85). Ashgate.
@@ -34,7 +34,7 @@
 
 ---
 
-### Week 4 (September 14 to September 20): Genre and Expectations
+### Week 4 (September 14 to September 20): Genre and expectations
 
 - **Read:** Johnson, E. K. (forthcoming). Genre expectations. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Spinuzzi, C. (2003). Compound mediation in software development: Using genre ecologies to study textual artifacts. In *Writing selves and writing societies* (pp. 97 to 124). The WAC Clearinghouse. https://doi.org/10.37514/PER-B.2003.2317
@@ -45,7 +45,7 @@
 
 ---
 
-### Week 5 (September 21 to September 27): Text and Visuals
+### Week 5 (September 21 to September 27): Text and visuals
 
 - **Read:** Johnson, E. K. (forthcoming). Text and visuals. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Amare, N., & Manning, A. (2007). The language of visuals: Text plus graphics equals visual rhetoric tutorial. *IEEE Transactions on Professional Communication, 50*(1), 57 to 70. https://doi.org/10.1109/TPC.2006.890851
@@ -54,7 +54,7 @@
 
 ---
 
-### Week 6 (September 28 to October 4): Visual Rhetoric and Signaling
+### Week 6 (September 28 to October 4): Visual rhetoric and signaling
 
 - **Read:** Amare, N., & Manning, A. (2013). *A unified theory of information design: Visuals, text and ethics* (selected chapter). Routledge.
 - **Read:** Rose, G. (2022). Discourse analysis: Text, intertextuality, and context. In *Visual methodologies: An introduction to researching with visual materials* (5th ed.). SAGE.
@@ -62,7 +62,7 @@
 
 ---
 
-### Week 7 (October 5 to October 11): Sound and Aural Communication
+### Week 7 (October 5 to October 11): Sound and aural communication
 
 - **Read:** Johnson, E. K. (forthcoming). Sounds. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Johnson, E. K. (2021). The aural-visual rhetoric in video game tutorials. *Technical Communication Quarterly, 31*(4), 374 to 394. https://doi.org/10.1080/10572252.2021.2021452
@@ -71,7 +71,7 @@
 
 ---
 
-### Week 8 (October 12 to October 18): Research Methods: Heuristics and Usability
+### Week 8 (October 12 to October 18): Research methods: heuristics and usability
 
 - **Read:** Nielsen, J. (1994). Heuristic evaluation. In *Usability inspection methods* (pp. 25 to 62). Wiley.
 - **Read:** Hayhoe, G. F., & Brewer, P. E. (2020). Conducting a qualitative study. In *A research primer for technical communication* (2nd ed., Chapter 5). Routledge. https://doi.org/10.4324/9781003080688
@@ -81,7 +81,7 @@
 
 ---
 
-### Week 9 (October 19 to October 25): Multimodal Combination and Redundancy
+### Week 9 (October 19 to October 25): Multimodal combination and redundancy
 
 - **Read:** Johnson, E. K. (forthcoming). Combo moves: Multimodal magic. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Gaver, W. W. (1986). Auditory icons: Using sound in computer interfaces. *Human-Computer Interaction, 2*(2), 167 to 177. https://doi.org/10.1207/s15327051hci0202_3
@@ -90,7 +90,7 @@
 
 ---
 
-### Week 10 (October 26 to November 1): Teaching Users What to Ignore
+### Week 10 (October 26 to November 1): Teaching users what to ignore
 
 - **Read:** Kalyuga, S., Chandler, P., & Sweller, J. (1999). Managing split-attention and redundancy in multimedia instruction. *Applied Cognitive Psychology, 13*(4), 351 to 371.
 - **Read:** Goodwin, C. (1994). Professional vision. *American Anthropologist, 96*(3), 606 to 633. https://doi.org/10.1525/aa.1994.96.3.02a00100
@@ -98,7 +98,7 @@
 
 ---
 
-### Week 11 (November 2 to November 8): Embodied Interaction
+### Week 11 (November 2 to November 8): Embodied interaction
 
 - **Read:** Johnson, E. K. (forthcoming). Reality check: Technical communication in XR spaces. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Shivener, R., & Tham, J. (2025). Capturing the experiences of simulated writing for novice virtual reality users. *IEEE Transactions on Professional Communication, 68*(1), 118 to 134. https://doi.org/10.1109/TPC.2025.3529095
@@ -107,7 +107,7 @@
 
 ---
 
-### Week 12 (November 9 to November 15): AI and Emerging Interfaces
+### Week 12 (November 9 to November 15): AI and emerging interfaces
 
 - **Read:** Weisz, J. D., He, J., Muller, M., Hoefer, G., Miles, R., & Geyer, W. (2024). Design principles for generative AI applications. *Proceedings of the CHI Conference on Human Factors in Computing Systems.* https://doi.org/10.1145/3613904.3642466
 - **Read:** Masters-Wheeler, C., & Bay, J. (2025). Methodologies for studying artificial intelligence in technical and professional communication. *Journal of Business and Technical Communication.* https://doi.org/10.1177/10506519241280647
@@ -117,14 +117,14 @@
 
 ---
 
-### Week 13 (November 16 to November 22): Futures of the Field
+### Week 13 (November 16 to November 22): Futures of the field
 
 - **Read:** Johnson, E. K. (forthcoming). Conclusion. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Complete:** Major Assignment 3 Final (Sunday, November 22)
 
 ---
 
-### Week 14 (November 23 to November 29): Break Week
+### Week 14 (November 23 to November 29): Break week
 
 - UCF is closed the full week, November 23 to 27; nothing due this week.
 

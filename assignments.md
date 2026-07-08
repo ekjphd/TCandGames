@@ -1,6 +1,6 @@
 ---
 
-## How the Major Assignments Work
+## How the major assignments work
 
 Each of the three major assignments runs on a draft, peer review, revise cycle:
 
@@ -10,13 +10,13 @@ Each of the three major assignments runs on a draft, peer review, revise cycle:
 
 This gives you a week to draft, time for peer response, and a week to revise before the final is due to me. Peer feedback is encouraged to follow the Critical Response Process, but the focus is a substantive, useful peer review.
 
-- **Major Assignment 1: Principle in the Wild**. Draft Thursday, September 17; peer review Sunday, September 20; final Sunday, September 27
-- **Major Assignment 2: Heuristic Evaluation or Usability Study**. Draft Thursday, October 15; peer review Sunday, October 18; final Sunday, October 25
-- **Major Assignment 3: Original Analysis Project**. Draft Thursday, November 12; peer review (optional) Sunday, November 15; final Sunday, November 22
+- **Major Assignment 1: Principle in the wild**. Draft Thursday, September 17; peer review Sunday, September 20; final Sunday, September 27
+- **Major Assignment 2: Heuristic evaluation or usability study**. Draft Thursday, October 15; peer review Sunday, October 18; final Sunday, October 25
+- **Major Assignment 3: Original analysis project**. Draft Thursday, November 12; peer review (optional) Sunday, November 15; final Sunday, November 22
 
 ---
 
-## Major Assignment 1: Principle in the Wild
+## Major Assignment 1: Principle in the wild
 
 **Draft due: Thursday, September 17 · Peer review due: Sunday, September 20 · Final due: Sunday, September 27**
 
@@ -48,7 +48,7 @@ Whatever the form, your submission must name the principle, point to the specifi
 
 ---
 
-## Major Assignment 2: Heuristic Evaluation or Usability Study
+## Major Assignment 2: Heuristic evaluation or usability study
 
 **Draft due: Thursday, October 15 · Peer review due: Sunday, October 18 · Final due: Sunday, October 25**
 
@@ -87,7 +87,7 @@ With your draft, include two or three specific questions for peer feedback and i
 
 ---
 
-## Major Assignment 3: Original Analysis Project
+## Major Assignment 3: Original analysis project
 
 **Draft due: Thursday, November 12 · Peer review (optional) due: Sunday, November 15 · Final due: Sunday, November 22**
 
