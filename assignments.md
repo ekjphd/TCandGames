@@ -1,3 +1,5 @@
+---
+
 ## How the major assignments work
 
 Each of the three major assignments runs on a draft, peer review, revise cycle:
@@ -11,26 +13,6 @@ This gives you a week to draft, time for peer response, and a week to revise bef
 - **Major Assignment 1: Principle in the wild**. Draft Thursday, September 17; peer review Sunday, September 20; final Sunday, September 27
 - **Major Assignment 2: Heuristic evaluation or usability study**. Draft Thursday, October 15; peer review Sunday, October 18; final Sunday, October 25
 - **Major Assignment 3: Original analysis project**. Draft Thursday, November 12; peer review (optional) Sunday, November 15; final Sunday, November 22
-
----
-
-## Grading scale
-
-| Letter grade | Percentage |
-| --- | --- |
-| A | 94 to 100 |
-| A- | 90 to 93 |
-| B+ | 87 to 89 |
-| B | 83 to 86 |
-| B- | 80 to 82 |
-| C+ | 77 to 79 |
-| C | 70 to 76 |
-| D+ | 67 to 69 |
-| D | 64 to 66 |
-| D- | 60 to 63 |
-| F | Below 60 |
-
-Final percentages round up at the half point, so a 93.5 earns an A.
 
 ---
 
