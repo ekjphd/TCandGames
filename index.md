@@ -65,7 +65,7 @@
 
 - **Read:** Johnson, E. K. (forthcoming). Sounds. In *Game update: Video games as technical communication innovators.* SUNY Press.
 - **Read:** Johnson, E. K. (2021). The aural-visual rhetoric in video game tutorials. *Technical Communication Quarterly, 31*(4), 374 to 394. https://doi.org/10.1080/10572252.2021.2021452
-- **Read:** Collins, K. (2008). *Game sound: An introduction to the history, theory, and practice of video game music and sound design* (selected chapter). MIT Press.
+- **Read:** Collins, K. (2008). Gameplay, genre, and the functions of game audio. In *Game sound: An introduction to the history, theory, and practice of video game music and sound design* (pp. 123 to 138). MIT Press. https://doi.org/10.7551/mitpress/7909.003.0008
 - **Complete:** Weekly Exercise 4 (Sunday, October 11)
 
 ---
