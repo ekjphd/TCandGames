@@ -56,7 +56,6 @@
 
 ### Week 6 (September 28 to October 4): Visual rhetoric and signaling
 
-- **Read:** Amare, N., & Manning, A. (2013). *A unified theory of information design: Visuals, text and ethics* (selected chapter). Routledge.
 - **Read:** Rose, G. (2022). Discourse analysis: Text, intertextuality, and context. In *Visual methodologies: An introduction to researching with visual materials* (5th ed.). SAGE.
 - **Complete:** Weekly Exercise 3 (Sunday, October 4)
 
