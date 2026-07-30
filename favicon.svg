@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <!-- Game controller in electric purple (#b14aed), matching the page border. Transparent background. -->
+  <!-- Game controller: dark body, electric purple (#b14aed) outline and controls. Transparent background. -->
   <defs>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="0.7" result="blur"/>
@@ -10,9 +10,9 @@
     </filter>
   </defs>
   <g filter="url(#glow)" transform="translate(-5.5,-5.25) scale(1.25)">
-    <!-- Controller body -->
+    <!-- Controller body: filled dark, purple outline -->
     <path d="M11 10.5 h10 a6.5 6.5 0 0 1 6.2 4.6 l1.5 5.2 a3 3 0 0 1 -5.3 2.5 l-2.2 -3 h-8.4 l-2.2 3 a3 3 0 0 1 -5.3 -2.5 l1.5 -5.2 a6.5 6.5 0 0 1 6.2 -4.6 z"
-          fill="none" stroke="#b14aed" stroke-width="2" stroke-linejoin="round"/>
+          fill="#16002e" stroke="#b14aed" stroke-width="2" stroke-linejoin="round"/>
     <!-- D-pad -->
     <line x1="9.4" y1="16.2" x2="13.4" y2="16.2" stroke="#b14aed" stroke-width="1.9" stroke-linecap="round"/>
     <line x1="11.4" y1="14.2" x2="11.4" y2="18.2" stroke="#b14aed" stroke-width="1.9" stroke-linecap="round"/>
