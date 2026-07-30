@@ -172,6 +172,9 @@
 - **Explore**
   - [AI-powered characters in video games](https://www.youtube.com/watch?v=s3W61NI8y3I)
   - [AI, voice-driven vampire game](https://www.youtube.com/watch?v=811JkxLfvoA)
+  - Optional additional exploration
+    - [Podcast where technical writers chat about AI](https://idratherbewriting.com/blog/podcast-fabri-tom-sept-episode-1)
+    - [Technical writers and AI](https://technicalwriterhq.com/interview/ai-technical-writing/)
 
 ---
 
