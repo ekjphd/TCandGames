@@ -24,12 +24,12 @@
 - **Read:** Fullerton, T., & Farber, M. (2025). Introduction. In *The well-read game: On playing thoughtfully.* MIT Press.
 - **Complete:** Weekly Exercise 1 (Sunday, September 6)
 - **Explore**
-  - [Opening sequences Spider-Man 2](https://youtu.be/SujI4QSweuw?si=JgDgeNnSgntJJghV&t=34)
-  - [10 worst video game tutorials](https://www.youtube.com/watch?v=ZghAPw-9_FI&t=37s)
+  - [Opening sequences Spider-Man 2 (to 7:45)](https://youtu.be/SujI4QSweuw?si=JgDgeNnSgntJJghV&t=34)
+  - [10 worst video game tutorials (at least 4 minutes of the 11 minute video)](https://www.youtube.com/watch?v=ZghAPw-9_FI&t=37s)
   - [Baldur's Gate 3 (long playthrough; just watch a few snippets of the game preferences setup)](https://youtu.be/JmF01TP5Q5w?si=TfejMSMGB4uEMkGo&t=555)
   - [The Elder Scrolls V: Skyrim (feel free to stop before 6:27 when it gets gory)](https://www.youtube.com/watch?v=w_nSBuJPgNM)
-  - [Minecraft with commentary from a brand new player](https://youtu.be/XhqsltLnzBM?si=T5TPszm_jF79RrhY&t=82)
-  - [Minecraft Tutorial](https://www.youtube.com/watch?v=ADU1ycprBg4)
+  - [Minecraft with commentary from a brand new player (1-2 minutes to get the idea)](https://youtu.be/XhqsltLnzBM?si=T5TPszm_jF79RrhY&t=82)
+  - [Minecraft Tutorial (1-2 minutes to get the idea)](https://www.youtube.com/watch?v=ADU1ycprBg4)
 
 ---
 
@@ -40,9 +40,9 @@
 - **Read:** Sundaram, S., & Steeds, M. (2025). Frustration, engagement, and adaptation: Analyzing player emotions and behaviors in Ori and the Blind Forest. *Companion proceedings of the annual symposium on computer-human interaction in play*, 88–95. https://doi.org/10.1145/3744736.3749340
 - **Complete:** Weekly Exercise 2 (Sunday, September 13)
 - **Explore**
-  - [Papers, Please](https://youtu.be/YBrCRIUzzP4?si=bx4ZpYl___Gq00C5&t=73)
+  - [Papers, Please (watch to at least 14:25)](https://youtu.be/YBrCRIUzzP4?si=bx4ZpYl___Gq00C5&t=73)
   - [Destroy/Wait (play)](https://textadventures.co.uk/games/play/imqjkrovtkiggxqcnilq9g)
-  - [How I got my mom to play through Plants vs. Zombies: technical communication in video games](https://www.youtube.com/watch?v=fbzhHSexzpY)
+  - [How I got my mom to play through Plants vs. Zombies: Technical communication in video games (at least the first 10 minutes)](https://www.youtube.com/watch?v=fbzhHSexzpY)
   - [Tetris (play)](https://www.freetetris.org/)
   - [Pong (play)](https://ponggame.io/)
 
@@ -59,7 +59,7 @@
 - **Explore**
   - [Doom (first 3 minutes)](https://youtu.be/0ohWTc4YStI?si=JVblIUYJqhYTJh4S&t=96)
   - [Call of Duty: Black Ops 7 (1-2 minutes or so)](https://youtu.be/ee0nRtNwtLc?si=VBRvl8opEeYKVLHr&t=494)
-  - [Candy Crush](https://www.youtube.com/watch?v=tk3am3PhKFE)
+  - [Candy Crush (1-2 minutes to get through the tutorial)](https://www.youtube.com/watch?v=tk3am3PhKFE)
   - [Mario Kart (play – press the letter X to move, left and right arrows steer)](https://www.smbgames.be/mario-kart-r.php)
   - [Super Mario Bros. (play)](https://supermarioplay.com/)
 
@@ -72,9 +72,9 @@
 - **Read:** Killingsworth, M. J., & Rosenberg, M. E. (1995). The icon as a problem in cognition and social construction: Complexity and consensual domains in technical rhetoric. *IEEE Transactions on Professional Communication, 38*(4), 216–227. https://doi.org/10.1109/47.475593
 - **Complete:** Major Assignment 1 Final (Sunday, September 27)
 - **Explore**
-  - [Half-Life: Alyx](https://youtu.be/E6Kb6dPuREk?si=o0Crxo8zr9MheFWI&t=2250)
+  - [Half-Life: Alyx (gravity glove tutorial, starts at 38:29)](https://youtu.be/E6Kb6dPuREk?si=o0Crxo8zr9MheFWI&t=2250)
   - [Pokémon Legends: Arceus (1-2 minutes where the player goes over their team)](https://youtu.be/FjmBrG6UZII?si=rjhAvpYdw11KrCE-&t=1113)
-  - [World of Warcraft: User interface new player guide](https://www.youtube.com/watch?v=n7gzGn0WWxc&t=14s)
+  - [World of Warcraft: User interface new player guide (1-2 minutes from the link start to get the idea)](https://www.youtube.com/watch?v=n7gzGn0WWxc&t=14s)
   - [Marvel's Spider-Man 2 (swinging mechanics, watch 1-2 minutes from where link starts)](https://youtu.be/pHaDwp641k4?si=Vm_wTGGGJgroby7u&t=227)
 
 ---
@@ -85,10 +85,10 @@
 - **Read:** Rose, G. (2023). Semiology: Making sense of signs. In *Visual methodologies: An introduction to researching with visual materials* (5th ed., pp. 170–213). SAGE.
 - **Complete:** Weekly Exercise 3 (Sunday, October 4)
 - **Explore**
-  - [Beat Saber (beginner, player POV)](https://www.youtube.com/watch?v=sjz1MU7mLhQ&t=53s)
+  - [Beat Saber (beginner, player POV, 1-2 minutes from link start)](https://www.youtube.com/watch?v=sjz1MU7mLhQ&t=53s)
   - [Dark Souls (watch 1-2 minutes of play)](https://youtu.be/j_W7bv305C4?si=-iEI_R_OjU31lwAl&t=1537)
-  - [Monster Hunter Wilds damage explanation video (explicit)](https://www.youtube.com/watch?v=QkyvMfLOb78)
-  - [Jurassic World Evolution 3](https://www.youtube.com/watch?v=Doc2Fftk6nM&t=1s)
+  - [Monster Hunter Wilds damage explanation video (explicit, 2-3 minutes after the link begins)](https://youtu.be/6yLa1OgY-ws?si=6G7xd0lPcDfgQAcA&t=62)
+  - [Jurassic World Evolution 3 (first 1-3 minutes)](https://www.youtube.com/watch?v=Doc2Fftk6nM&t=1s)
 
 ---
 
@@ -100,13 +100,13 @@
 - **Complete:** Weekly Exercise 4 (Sunday, October 11)
 - **Explore**
   - [Silent Hill 2 (super creepy; watch from link start to the second monster at 1:02:04)](https://youtu.be/AdqSFSQ4M3c?si=OWUhPj7yhGUurTjr&t=327)
-  - [Blind Drive (explicit language)](https://www.youtube.com/watch?v=bGMiTLDKaxE)
+  - [Blind Drive (explicit - watch at least to 3:15 but it gets zanier as you watch)](https://www.youtube.com/watch?v=bGMiTLDKaxE)
   - [Alan Wake 2 (watch from the link until at least 8:44)](https://youtu.be/pFDhNfxb0ys?si=e2i8xypXf__XZAdN&t=334)
-  - [Monster Hunter Wilds (battle scene)](https://youtu.be/FHwwqih6-UU?si=H6ic1ECHWaktrf2M&t=241)
+  - [Monster Hunter Wilds (battle scene, 1-2 minutes)](https://youtu.be/FHwwqih6-UU?si=H6ic1ECHWaktrf2M&t=241)
 
 ---
 
-### Week 8. Research methods: heuristics and usability (October 12-18)
+### Week 8. Research methods: Heuristics and usability (October 12-18)
 
 - **Read:** Nielsen, J. (1994). Heuristic evaluation. In *Usability inspection methods* (pp. 25–62). Wiley.
 - **Read:** Hayhoe, G. F., & Brewer, P. E. (2020). Conducting a qualitative study. In *A research primer for technical communication* (2nd ed., Chapter 5). Routledge. https://doi.org/10.4324/9781003080688
@@ -128,7 +128,7 @@
 - **Complete:** Major Assignment 2 Final (Sunday, October 25)
 - **Explore**
   - [Balatro (watch 4-5 minutes)](https://youtu.be/mVQT1k0ZVTY?si=JjXx3cN2EFKJw1Py&t=47)
-  - [Beginner guide: Monster Hunter Wilds](https://www.youtube.com/watch?v=QkyvMfLOb78)
+  - [Beginner guide: Monster Hunter Wilds (first 1-2 minutes until you get the idea)](https://www.youtube.com/watch?v=QkyvMfLOb78)
   - [Sonic and the Secret Rings on Wii (1-2 minutes)](https://youtu.be/CYgpTmAlcFc?si=k5tD7fxXFVpxTBav&t=649)
 
 ---
@@ -154,8 +154,8 @@
 - **Explore**
   - [The Nintendo Power Glove: Bad Street Brawler (1-2 minutes)](https://youtu.be/CiBzXcOER0o?si=4PsJvia89OKyQxef&t=90)
   - [Duck Hunt (1-2 minutes)](https://youtu.be/-iuqHmZmDWg?si=zjp8PT-1LnthncpP)
-  - [Beat Saber (advanced, dual view)](https://www.youtube.com/watch?v=3ehSPtWoiuc)
-  - [Asgard's Wrath 2](https://youtu.be/OyI9IP8Peh8?si=UOsF1eMe1U3sEAD2&t=22)
+  - [Beat Saber (advanced, dual view, 1-2 minutes)](https://www.youtube.com/watch?v=3ehSPtWoiuc)
+  - [Asgard's Wrath 2 (watch at least to 2:17)](https://youtu.be/OyI9IP8Peh8?si=UOsF1eMe1U3sEAD2&t=22)
   - [Pokémon Go (1-2 minutes to get the idea)](https://youtu.be/q1hDjReHTPg?si=ZxrSdKTJ3zzlXUnu&t=249)
   - [Hauntify (MR horror game; watch 1-2 minutes if you can)](https://youtu.be/irOxzCvHwAU?si=Xb_5A3MK9lId1POZ&t=144)
 
@@ -196,7 +196,7 @@
 
 ---
 
-### Week 15. Reflection (November 30-December 6)
+### Finals week (November 30-December 6)
 
 - **Read:** No assigned reading.
 - **Complete:** Final Reflection Paper (Sunday, December 6)
